@@ -1,5 +1,4 @@
 #EXTM3U billed-msg="OTTNavigate` PLAYLIST THAITV 🕧🖥️⚙️ | ดูหนังซีรีย์18+.", url-tvg="https://iptv36.vercel.app/epg.xml, https://xmltv.tvkaista.net/guides/tv.trueid.net.xml,https://www.bevy.be/generate/9lxaRala0v.xml,https://i.mjh.nz/SamsungTVPlus/all.xml,https://i.mjh.nz/au/all/epg.xml,https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium2.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml,https://www.bevy.be/bevyfiles/unitedstatespremium3.xml,https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://i.mjh.nz/PlutoTV/all.xml,https://www.bevy.be/bevyfiles/francepremium.xml,https://www.bevy.be/bevyfiles/slovakia.xml,https://www.bevy.be/bevyfiles/slovakiapremium.xml,https://avkb.short.gy/tsepg.xml.gz,https://www.bevy.be/bevyfiles/chilepremium.xml,https://www.bevy.be/bevyfiles/germanypremium2.xml" refresh="23" url="https://drzl.short.gy/playidtv27.m3u"
-
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
@@ -9,6 +8,8 @@
 #EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=11854000,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 #EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5093000,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 #EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3605000,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=480x360 /m3u8/b428a2ac2b6d5b701ac05db0/b428a2ac2b6d5b701ac05db0168.m3u8 
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080/m3u8/b428a2ac2b6d5b701ac05db0/b428a2ac2b6d5b701ac05db0438.m3u8 
 #EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1999999,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 #EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1999999,CODECS="avc1.42e00a,avc1.4d001e,avc1.4d001f,avc1.42001e,avc1.4d001e,mp4a.40.2"
 #EXT-X-I-FRAME-STREAM-INF:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
